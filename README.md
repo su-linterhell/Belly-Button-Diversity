@@ -9,6 +9,7 @@ This dashboard includes a drop down select menu, to choose the ID to view. You c
 
 ## Summary:
 Through Plotly, html, and boot strap styling a convient dashboard was created to view a dataset with much convience. 
+
 Note: Changes made for deliverable 4
 * Image added to the jumbotron
 * Pabel box color changed
