@@ -7,6 +7,7 @@ To create a interactive dashboard to display visualizations for belly button dat
 ## Results:
 This dashboard includes a drop down select menu, to choose the ID to view. You can see the demographic information for the test subject, the washing frequency, the top 10 bacteria cultures found and the bacteria cultures per sample. This information is viewed as a panel, gauge chart, horizontal bar chart, and bubble chart. 
 
+![belly_button_dashboard](Resources/belly_button_dashboard.png)
 ## Summary:
 Through Plotly, html, and boot strap styling a convient dashboard was created to view a dataset with much convience. 
 
